@@ -18,11 +18,6 @@
 
 * Corrected the order of headings.
 
-QUESTIONS FOR TUTOR
--HTML elements logical structure
--should I move image from CSS to HTML
-
-
 ### SCREENSHOT
 
 ![Screenshot of page](https://github.com/jgood13/challenge1/blob/main/assets/images/challenge1screenshot.png?raw=true "Page Screenshot")
