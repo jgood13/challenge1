@@ -25,7 +25,7 @@ QUESTIONS FOR TUTOR
 
 ### SCREENSHOT
 
-![Screenshot of page](assets\images\challenge1screenshot.png "Page Screenshot")
+![Screenshot of page](https://github.com/jgood13/challenge1/blob/main/assets/images/challenge1screenshot.png?raw=true"Page Screenshot")
 
 ### LINK TO PAGE
 
