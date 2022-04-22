@@ -19,15 +19,13 @@
 * Corrected the order of headings.
 
 QUESTIONS FOR TUTOR
--screenshot
--deploying
 -HTML elements logical structure
 -should I move image from CSS to HTML
 
 
 ### SCREENSHOT
 
-![Screenshot of page](C:\Users\josep\Desktop\code\Challenges\challenge1\challenge1\assets\images\challenge1screenshot.png "Page Screenshot")
+![Screenshot of page](assets\images\challenge1screenshot.png "Page Screenshot")
 
 ### LINK TO PAGE
 
