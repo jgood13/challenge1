@@ -27,6 +27,7 @@ QUESTIONS FOR TUTOR
 
 ### SCREENSHOT
 
+![Screenshot of page](C:\Users\josep\Desktop\code\Challenges\challenge1\challenge1\assets\images\challenge1screenshot.png "Page Screenshot")
 
 ### LINK TO PAGE
 
